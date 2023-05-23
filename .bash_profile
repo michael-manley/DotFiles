@@ -4,7 +4,4 @@
 
 [[ -f ~/.bashrc ]] && . ~/.bashrc
 
-
-# Added by Toolbox App
-export PATH="$PATH:/home/mjmanley/.local/share/JetBrains/Toolbox/scripts"
-
+export PATH="$PATH:/home/mjmanley/.local/share/JetBrains/Toolbox/scripts:/opt/010editor"
